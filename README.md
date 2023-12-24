@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mgchitdev
+- 🌱 I’m currently learning Solidity and Blockchain.

@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @mgchitdev
-- 🌱 I’m currently learning Solidity and Blockchain.
+- 🌱 I’m currently learning Solidity and Blockchain and more.
